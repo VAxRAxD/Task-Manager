@@ -1,6 +1,5 @@
 # Task-Manager
 A Command Line Interface application build using Python3 and its library Typer
-
 - ./app.py add PRIORITY "TASK"
 - ./app.py ls 
 - ./app.py del INDEX 
